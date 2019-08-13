@@ -13,7 +13,7 @@ section: getting-started
 
 ## Super Key
 
-The Super Key is the OS key on your keyboard and is the Ubuntu or Pop key (<kbd><i class="fl-ubuntu"></i></kbd>, <kbd><span class="fl-pop-key"></span></kbd>).
+The Super Key is the OS key on your keyboard, similar to the Windows Key or Command Key. On System76 Hardware, the Super Key is the Pop! Key or Ubuntu Key (<kbd><span class="fl-pop-key"></span></kbd>, <kbd><i class="fl-ubuntu"></i></kbd>).
 
 In Pop!\_OS, <kbd><span class="fl-pop-key"></span></kbd> handles the majority of OS and window actions.
 
