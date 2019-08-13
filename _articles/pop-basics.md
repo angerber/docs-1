@@ -25,7 +25,7 @@ Welcome to the Pop!_OS desktop!  By default it is clean and ready for action.
 
 ![Pop Desktop](/images/pop-basics/activities-view.png)
 
-To navigate within the desktop, either click the <u>Activities</u> button in the top left, or press the Super key on the keyboard.  This will show the overview of all open windows and provide a search to open program.
+To navigate within the desktop, either click the <u>Activities</u> button in the top left, or press the Super key on the keyboard.  This will show the overview of all open windows and provide a search to open a desired program.
 
 ![Pop Desktop](/images/pop-basics/show-applications.png)
 
