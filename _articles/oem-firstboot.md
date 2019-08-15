@@ -2,7 +2,7 @@
 layout: article
 title: Create a User If Initial User Setup Fails
 description: >
-  Sometimes, the first boot user creation fails and leaves only a Guest session. You can fix this by following the steps here.
+  Sometimes, the first-boot user creation fails and leaves only a Guest session. You can fix this by following the steps here.
 keywords:
   - Support
   - Crash
@@ -16,7 +16,7 @@ section: pop-ubuntu
 
 ---
 
-A lot of work goes in to making your System76 experience fantastic right out of the box. Getting running needs just a little bit of information like a username and password. Every now and then, something goes wrong with the new user creator. If there is only a Guest Session, follow these instructions to fix the issue.
+Occasionally, the first boot user creation fails and leaves only a Guest session. If there is only a Guest Session, follow these instructions to fix the issue.
 
 ### Overview
 
