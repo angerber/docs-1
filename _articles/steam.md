@@ -13,21 +13,23 @@ section: pop-ubuntu
 
 ---
 
+### Install Steam From the Pop!_Shop
+
+Open the <u>Pop!_Shop</u> application. There, you can either search for Steam or click the <u>Steam</u> icon on the Pop!_Shop home page. 
+
+![Pop!_Shop](/images/steam/pop_shop1.png)
+
+Then, click the **install button**.
+
+![Pop!_Shop](/images/steam/pop_shop2.png)
+
 ### Install Steam From Command Line
 
-Open the <u>Terminal</u> application by searching for <u>Terminal</u> after pressing the Super Key <kbd><i class="fl-ubuntu"></i></kbd>, <kbd><span class="fl-pop-key"></span></kbd>.
+Press the Super Key <kbd><span class="fl-pop-key"></span></kbd><kbd>, <i class="fl-ubuntu"></i></kbd> and search for <u>Terminal</u>. Then, open the <u>Terminal</u> application.
 
 ![Activities Overview](/images/steam/search.png)
 
-Once the <u>Terminal</u> application is opened you can use the Command Line tool `apt` to search for it like so:
-
-```
-apt search steam
-```
-
-![Terminal](/images/steam/steam1.png)
-
-Once we find the right name for <u>Steam</u> we can install it with `apt` as well. Please type this command into the terminal and press <kbd>Enter</kbd>:
+Once the <u>Terminal</u> is opened, type this command into the terminal and press <kbd>Enter</kbd>:
 
 ```
 sudo apt install steam
@@ -36,15 +38,15 @@ sudo apt install steam
 ![Terminal](/images/steam/steam2.png)
 
 **Be very careful when using sudo with ANY Command. It can make system wide changes so be sure to read everything before entering 'Y'.**
-
 Once installed, use the Activities Overview to search for and run <u>Steam</u>.
 
-### Install Steam From the Pop!_Shop
 
-Open the <u>Pop!_Shop</u> application then either search for Steam or by clicking the <u>Steam</u> icon on the Pop!_Shop home page. 
+You can also use the Command Line tool `apt` to search for Steam:
 
-![Pop!_Shop](/images/steam/pop_shop1.png)
+```
+apt search steam
+```
 
-Then click the **install button**.
+![Terminal](/images/steam/steam1.png)
 
-![Pop!_Shop](/images/steam/pop_shop2.png)
+Once you find the right name for <u>Steam</u> you can install it with `apt`. This Command Line tool is useful for finding other applications as well.
